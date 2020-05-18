@@ -1,0 +1,20 @@
+h1{
+  text-align: center;
+}
+
+div {
+  background-color: green;
+  text-align: center;
+  width: 200px;
+  font-size: 28px;
+}
+
+
+
+.blackback {
+  background-color: yellow;
+}
+
+.redback {
+  background-color: red;
+}
